@@ -3,11 +3,11 @@
 Good day! These [folder](https://github.com/P1trusHka/MIREA/tree/main/Artificial_Intelligence) contain ready-made notebooks on the discipline of Artificial Intelligence.
 <h2> Table of contents: </h2>
 
-- The [first notebook](https://github.com/P1trusHka/MIREA/blob/main/Artificial_Intelligence/Notebook1.ipynb) - The basis of Python. Libraries.
-- The [second notebook](https://github.com/P1trusHka/MIREA/blob/main/Artificial_Intelligence/Notebook2.ipynb) - NumPy. Pandas. Working with numeric data.
-- The [third notebook](https://github.com/P1trusHka/MIREA/blob/main/Artificial_Intelligence/Notebook3.ipynb) - Python Functions. The distance between objects of the class. Classification tasks. 
-- The [fourth notebook](https://github.com/P1trusHka/MIREA/blob/main/Artificial_Intelligence/Notebook4.ipynb) - Linear regression models Linear regression. Regression tasks
-- The [fifth notebook](https://github.com/P1trusHka/MIREA/blob/main/Artificial_Intelligence/Notebook5.ipynb) - Decision trees. The basics of object-oriented programming in Python. Decision tree for regression. 
-- The [sixth notebook](https://github.com/P1trusHka/MIREA/blob/main/Artificial_Intelligence/Notebook6.ipynb) - Evolutionary methods. The method of simulated annealing. 
-- The [seventh notebook](https://github.com/P1trusHka/MIREA/blob/main/Artificial_Intelligence/Notebook7.ipynb) - Neural networks. Implementation of a neural network in Python. 
-- The [eighth notebook](https://github.com/P1trusHka/MIREA/blob/main/Artificial_Intelligence/Notebook3.ipynb) - Clustering. 
+- [Тетрадь №1](https://github.com/min2109/Artificial-Intelligence/blob/main/Notebook1.ipynb) - Основа Python. Библиотеки.
+- [Тетрадь №2](https://github.com/min2109/Artificial-Intelligence/blob/main/Notebook2.ipynb) - NumPy. Pandas. Работа с числовыми данными.
+- [Тетрадь №3](https://github.com/min2109/Artificial-Intelligence/blob/main/Notebook3.ipynb) - Функции Python. Расстояние между объектами класса. Задачи классификации. 
+- [Тетрадь №4](https://github.com/min2109/Artificial-Intelligence/blob/main/Notebook4.ipynb) - Линейная регрессия моделирует линейную регрессию. Регрессионные задачи
+- [Тетрадь №5](https://github.com/min2109/Artificial-Intelligence/blob/main/Notebook5.ipynb) - Деревья решений. Основы объектно-ориентированного программирования на Python. Дерево решений для регрессии.
+- [Тетрадь №6](https://github.com/min2109/Artificial-Intelligence/blob/main/Notebook6.ipynb) - Эволюционные методы. Метод имитационного отжига.
+- [Тетрадь №7](https://github.com/min2109/Artificial-Intelligence/blob/main/Notebook7.ipynb) - Нейронные сети. Реализация нейронной сети на Python.
+- [Тетрадь №8](https://github.com/min2109/Artificial-Intelligence/blob/main/Notebook8.ipynb) - Кластеризация.
