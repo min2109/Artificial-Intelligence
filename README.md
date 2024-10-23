@@ -1,7 +1,7 @@
-<h1> 1. Artificial Intelligence Practice </h1>
+<h1> 1. Практика  - Искусственный Интеллект </h1>
 
-Good day! These [folder](https://github.com/P1trusHka/MIREA/tree/main/Artificial_Intelligence) contain ready-made notebooks on the discipline of Artificial Intelligence.
-<h2> Table of contents: </h2>
+Добрый день! Эти репозитории содержат тетради по дисциплине искусственного интеллекта.
+<h2> Содержание: </h2>
 
 - [Тетрадь №1](https://github.com/min2109/Artificial-Intelligence/blob/main/Notebook1.ipynb) - Основа Python. Библиотеки.
 - [Тетрадь №2](https://github.com/min2109/Artificial-Intelligence/blob/main/Notebook2.ipynb) - NumPy. Pandas. Работа с числовыми данными.
