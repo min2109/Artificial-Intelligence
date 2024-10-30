@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Этот проект постоянно подвергается изменениям!
+
+
 ![made_with](https://img.shields.io/badge/Made_with-Google_Collaboratory-orange)
 ![language](https://img.shields.io/badge/Language-Python-blue)
 <h1> Python Practice </h1>
